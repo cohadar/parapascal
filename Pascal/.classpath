@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="cohadar/diplomski/parsing/__Test__.java|cohadar/diplomski/CopyOfMain.java|components/|cohadar/cpas/gui/editor/CpasEditor.java|cohadar/cpas/parsing/__Test__.java|cohadar/cpas/parsing/AParser.java|cohadar/cpas/parsing/PrettyPrint.java|cohadar/cpas/gui/editor/CPasFormatter.java|cohadar/cpas/walking/PrettyPrint.java|cohadar/cpas/symtab/CopyOfSymbolTable.java|cohadar/cpas/walking/Tassadar.java|cohadar/pascal/walking/Tassadar.java|cohadar/pascal/gui/editor/CPasFormatter.java|cohadar/pascal/symtab/FunctionVariable.java|cohadar/pascal/walking/CopyOfTxtStrategy.java|cohadar/pascal/symtab/CopyOfSymbolTable.java|cohadar/pascal/gui/StatusBar.java|cohadar/pascal/gui/CopyOfPasFrame.java|cohadar/pascal/walking/AbstractPrint.java" kind="src" path="src"/>
+	<classpathentry excluding="cohadar/cpas/parsing/DebugRewriter.java" kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Assembler"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Editor"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Interpreter"/>
+	<classpathentry kind="lib" path="/home/cohadar/eclipse-workspaces/ExternalJars/antlr-3.3-complete.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

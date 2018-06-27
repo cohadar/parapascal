@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="cohadar/casm/interpreter/variables/InstanceArrayVariable.java|cohadar/casm/interpreter/variables/SemaphoreVariable.java|cohadar/casm/interpreter/instructions/concurrency/INIT.java|cohadar/casm/interpreter/instructions/concurrency/SIGNAL.java|cohadar/casm/interpreter/instructions/concurrency/WAIT.java|cohadar/casm/interpreter/Junk.java|cohadar/casm/interpreter/instructions/constructs/AINIT.java|cohadar/casm/interpreter/instructions/constructs/ALOAD.java|cohadar/casm/interpreter/instructions/constructs/ASTORE.java|cohadar/casm/interpreter/instructions/stack/AINIT.java|cohadar/casm/interpreter/instructions/stack/ALOAD.java|cohadar/casm/interpreter/instructions/stack/ASTORE.java|cohadar/util/CopyOfErrorLogger.java" kind="src" path="src"/>
+	<classpathentry excluding="cohadar/casm/interpreter/TestLOAD.java|cohadar/casm/interpreter/TestSTORE.java" kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

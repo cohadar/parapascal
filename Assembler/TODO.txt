@@ -1,0 +1,27 @@
+//=========================
+//  TODO
+//=========================
+
+* precalculate nShared and nIstance and use that when creating CProcess
+
+//=========================
+//  DONE
+//=========================
+* forced variable initialization, all must be in form: varName = const
+
+* mark labels without ending : as error and display status bar message.
+
+* add undo/redo support
+ 
+* fix MOD documentation
+* add file overwrite warning
+
+* Disable Run if no program is valid
+* Make MainFrame not a singleton
+* parsing policy must report missing .CODE segment
+* extract open/save system and make it reusable
+
+* EmptyStackException has bad display
+
+* add saveAs
+* fix trace printing of '\n'

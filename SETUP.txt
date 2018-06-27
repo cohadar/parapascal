@@ -1,0 +1,5 @@
+This is the source of ParaPascal, it has no executable files.
+If you just want to test this program download binary version.
+
+ParaPascal is developed in eclipse.
+This source tree is a root of 4 eclipse projects.

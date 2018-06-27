@@ -1,0 +1,7 @@
+Assembler/bin
+Editor/bin
+Interpreter/bin
+Pascal/bin
+.metadata
+release-bin
+release-src

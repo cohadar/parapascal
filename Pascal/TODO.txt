@@ -1,0 +1,13 @@
+//=========================
+//  TODO
+//=========================
+
+*** complete standard pascal support
+
+*** add monitors
+
+//=========================
+//  DONE
+//=========================
+
+* fix abnormal CPU usage (was caused by non-optimized paint function)

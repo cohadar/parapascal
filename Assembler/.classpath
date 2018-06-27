@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="cohadar/diplomski/assembler/parsing/__Test__.java|cohadar/diplomski/assembler/gui/Toolbar.java|cohadar/casm/assembler/parsing/__Test__.java|cohadar/casm/assembler/gui/Toolbar.java|cohadar/casm/assembler/parsing/CopyOfCodePolicy.java|cohadar/casm/assembler/parsing/CopyOfHighlighterPolicy.java|cohadar/casm/assembler/gui/CopyOfMainFrame.java|cohadar/assembler/Executor.java|cohadar/assembler/gui/CopyOfAsmFrame.java" kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Editor"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Interpreter"/>
+	<classpathentry kind="lib" path="/home/cohadar/eclipse-workspaces/ExternalJars/antlr-3.3-complete.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

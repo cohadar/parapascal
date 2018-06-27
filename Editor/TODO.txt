@@ -1,0 +1,14 @@
+//=========================
+//  TODO
+//=========================
+
+* handle readonly files?
+* handle owerwrites
+
+//=========================
+//  DONE
+//=========================
+
+* find free icons for menu items
+* implement find/replace
+* reduce tab size to 4
